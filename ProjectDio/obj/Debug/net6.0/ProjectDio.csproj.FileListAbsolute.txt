@@ -1,0 +1,15 @@
+C:\Aprendendo C#\ProjectDio\ProjectDio\bin\Debug\net6.0\ProjectDio.exe
+C:\Aprendendo C#\ProjectDio\ProjectDio\bin\Debug\net6.0\ProjectDio.deps.json
+C:\Aprendendo C#\ProjectDio\ProjectDio\bin\Debug\net6.0\ProjectDio.runtimeconfig.json
+C:\Aprendendo C#\ProjectDio\ProjectDio\bin\Debug\net6.0\ProjectDio.dll
+C:\Aprendendo C#\ProjectDio\ProjectDio\bin\Debug\net6.0\ProjectDio.pdb
+C:\Aprendendo C#\ProjectDio\ProjectDio\obj\Debug\net6.0\ProjectDio.csproj.AssemblyReference.cache
+C:\Aprendendo C#\ProjectDio\ProjectDio\obj\Debug\net6.0\ProjectDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aprendendo C#\ProjectDio\ProjectDio\obj\Debug\net6.0\ProjectDio.AssemblyInfoInputs.cache
+C:\Aprendendo C#\ProjectDio\ProjectDio\obj\Debug\net6.0\ProjectDio.AssemblyInfo.cs
+C:\Aprendendo C#\ProjectDio\ProjectDio\obj\Debug\net6.0\ProjectDio.csproj.CoreCompileInputs.cache
+C:\Aprendendo C#\ProjectDio\ProjectDio\obj\Debug\net6.0\ProjectDio.dll
+C:\Aprendendo C#\ProjectDio\ProjectDio\obj\Debug\net6.0\refint\ProjectDio.dll
+C:\Aprendendo C#\ProjectDio\ProjectDio\obj\Debug\net6.0\ProjectDio.pdb
+C:\Aprendendo C#\ProjectDio\ProjectDio\obj\Debug\net6.0\ProjectDio.genruntimeconfig.cache
+C:\Aprendendo C#\ProjectDio\ProjectDio\obj\Debug\net6.0\ref\ProjectDio.dll
